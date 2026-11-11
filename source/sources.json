@@ -178,5 +178,35 @@
     "year": "справочный раздел ведомства",
     "url": "https://dfpd.gov.in/faqs/en",
     "use": "Перенос доступа к продовольственной поддержке для уже включённых в программу получателей, условия проверки и выдачи."
+  },
+  "S31": {
+    "title": "MEXT. Japan’s Modern Educational System. Education after the Issuance of the Imperial Rescript on Education",
+    "year": "исторические документы 1890–1891 годов",
+    "url": "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1317326.htm",
+    "use": "Школьные церемонии, предмет нравственного воспитания и программа 1891 года."
+  },
+  "S32": {
+    "title": "CNNIC. The 55th Statistical Report on China’s Internet Development",
+    "year": "2025; данные на декабрь 2024 года",
+    "url": "https://www.cnnic.com.cn/IDR/ReportDownloads/202505/P020250514564119130448.pdf",
+    "use": "Основные результаты и раздел о видеосервисах. Охват интернетом и распространение коротких видео."
+  },
+  "S33": {
+    "title": "UNESCO. Spring Festival, Social Practices of the Chinese People in Celebration of Traditional New Year",
+    "year": "включён в Репрезентативный список в 2024 году",
+    "url": "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-traditional-new-year-02126",
+    "use": "Описание семейных и общественных практик, способов передачи знаний о Празднике весны."
+  },
+  "S34": {
+    "title": "China Media Group. 2025 Spring Festival Gala: Video Archive",
+    "year": "2025",
+    "url": "https://english.cctv.com/special/2025springfestivalgala/video/index.shtml",
+    "use": "Официальный видеоархив праздничной программы, в том числе сценический номер YANGGE BOT."
+  },
+  "S35": {
+    "title": "MEXT. Japan’s Modern Educational System. Methods and Curriculum in Elementary Schools",
+    "year": "учебные указания 1881 года",
+    "url": "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1317301.htm",
+    "use": "Состав предметов по ступеням начальной школы и роль общих указаний для префектур."
   }
 }
