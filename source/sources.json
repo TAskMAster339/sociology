@@ -142,5 +142,41 @@
     "year": "30.04.2025; данные за 2024 год",
     "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202504/t20250430_1959523.html",
     "use": "Мониторинг занятости выходцев из сельской местности. Раздел III, таблица 4: распределение занятости обследуемой группы по отраслям."
+  },
+  "S25": {
+    "title": "National Diet Library. The Constitution of the Empire of Japan",
+    "year": "1889; перевод Ито Миёдзи",
+    "url": "https://www.ndl.go.jp/constitution/e/etc/c02.html",
+    "use": "Статьи 1, 4–7, 33–37, 55, 64 и 67. Императорская власть, устройство парламента, законы и бюджет."
+  },
+  "S26": {
+    "title": "National Diet Library. The First Election of the House of Representatives",
+    "year": "выборы 1 июля 1890 года",
+    "url": "https://www.ndl.go.jp/portrait/pickup/024/",
+    "use": "Возрастной и налоговый цензы, доля населения с правом голоса, явка среди избирателей."
+  },
+  "S27": {
+    "title": "National Diet Library. Opening of the Imperial Diet",
+    "year": "первая сессия 1890–1891 годов",
+    "url": "https://www.ndl.go.jp/modern/e/cha2/description12.html",
+    "use": "Спор о бюджете и неформальные переговоры. Описание и архивные документы."
+  },
+  "S28": {
+    "title": "Election Commission of India. An Atlas: Lok Sabha Elections 2024",
+    "year": "2025; выборы 2024 года",
+    "url": "https://www.eci.gov.in/EBooks/atlas-2024/files/basic-html/page27.html",
+    "use": "Печатная с. 3: общая явка 66,10% без округа Сурат, где не было голосования из-за отсутствия соперников."
+  },
+  "S29": {
+    "title": "State Council of China. Constitution of the People’s Republic of China",
+    "year": "редакция 2018 года; английский перевод",
+    "url": "https://english.www.gov.cn/archive/lawregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html",
+    "use": "Статьи 1, 3, 15, 34, 41, 57–59, 97. Устройство власти и способы участия."
+  },
+  "S30": {
+    "title": "Department of Food and Public Distribution, India. FAQs: One Nation One Ration Card",
+    "year": "справочный раздел ведомства",
+    "url": "https://dfpd.gov.in/faqs/en",
+    "use": "Перенос доступа к продовольственной поддержке для уже включённых в программу получателей, условия проверки и выдачи."
   }
 }
