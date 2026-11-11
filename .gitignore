@@ -1,0 +1,8 @@
+build/
+node_modules/
+__pycache__/
+*.pyc
+~$*
+.codex/
+.agents/
+.aws/
