@@ -130,5 +130,17 @@
     "year": "2021; опрос 2019–2020",
     "url": "https://www.pewresearch.org/religion/2021/06/29/attitudes-about-caste/",
     "use": "Ответы о межкастовых браках, различия по регионам и образованию. Глава отчёта S05, та же выборка."
+  },
+  "S23": {
+    "title": "Takeuchi, Tsuneyoshi (Johzen). The Role of Labour-Intensive Sectors in Japanese Industrialization. Introduction: Themes and Approaches",
+    "year": "1991",
+    "url": "https://d-arch.ide.go.jp/je_archive/english/society/book_jes4_d02.html",
+    "use": "История шелкомотального производства. Раздел о переносе и адаптации технологии в Томиоке и Мацусиро."
+  },
+  "S24": {
+    "title": "National Bureau of Statistics of China. 2024年农民工监测调查报告",
+    "year": "30.04.2025; данные за 2024 год",
+    "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202504/t20250430_1959523.html",
+    "use": "Мониторинг занятости выходцев из сельской местности. Раздел III, таблица 4: распределение занятости обследуемой группы по отраслям."
   }
 }
