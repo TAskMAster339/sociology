@@ -6,3 +6,5 @@ __pycache__/
 .codex/
 .agents/
 .aws/
+scripts/
+.chart-data-*/

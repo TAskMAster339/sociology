@@ -1,19 +1,104 @@
 {
- "S01":{"title":"OpenStax. Introduction to Sociology 3e. 4.1 Types of Societies","year":"2021","url":"https://openstax.org/books/introduction-sociology-3e/pages/4-1-types-of-societies","use":"Типология обществ; учебная опора, не классификация всех стран по одному признаку."},
- "S02":{"title":"OpenStax. Introduction to Sociology 3e. 17.1 Power and Authority","year":"2021","url":"https://openstax.org/books/introduction-sociology-3e/pages/17-1-power-and-authority","use":"Типы легитимной власти по Максу Веберу."},
- "S03":{"title":"Alonso C., MacDonald M. Advancing India’s Structural Transformation and Catch-up to the Technology Frontier. IMF Working Paper 2024/138","year":"2024","url":"https://www.imf.org/en/publications/wp/issues/2024/07/08/advancing-indias-structural-transformation-and-catch-up-to-the-technology-frontier-551435","use":"Неравномерные изменения производительности и структуры экономики Индии; исследовательская работа авторов, не единая официальная позиция МВФ."},
- "S04":{"title":"MoSPI, National Statistical Office. Annual Report PLFS July 2023–June 2024","year":"2024","url":"https://www.mospi.gov.in/sites/default/files/publication_reports/AnnualReport_PLFS2023-24L2.pdf","use":"Раздел 3.7, распределение занятых по отраслям в usual status (ps+ss); сельское хозяйство 46,1%."},
- "S05":{"title":"Sahgal N. et al. Religion in India Tolerance and Segregation. Pew Research Center","year":"2021; опрос 2019–2020","url":"https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/","use":"Социальные границы и религиозные установки; 29 999 взрослых, поле 17.11.2019–23.03.2020. Не данные за 2026 год."},
- "S06":{"title":"Evans J. et al. How Indians View Gender Roles in Families and Society. Pew Research Center","year":"2022; опрос 2019–2020","url":"https://www.pewresearch.org/religion/2022/03/02/how-indians-view-gender-roles-in-families-and-society/","use":"Различие установок о публичных и семейных ролях женщин; тот же опрос, что S05, а не независимая выборка."},
- "S07":{"title":"Kitaoka S. Meiji Revolution Start of Full-Scale Modernization. JICA, глава 1","year":"без даты на странице серии","url":"https://www.jica.go.jp/dsp-chair/english/chair/modernization/ku57pq00002mpdct-att/modernization_chapter_01.pdf","use":"С. 10–12 PDF: конституция 1889 года, парламент 1890 года, императорские полномочия и неформальная координация элит."},
- "S08":{"title":"Kayashima N. Educational Development in Modernization in Japan. JICA, глава 5","year":"без даты на странице серии","url":"https://www.jica.go.jp/dsp-chair/english/chair/modernization/ku57pq00002mpdct-att/modernization_chapter_05.pdf","use":"С. 2–6 PDF: система образования 1872 года, наследие тэракоя, рескрипт 1890 года и подготовка кадров."},
- "S09":{"title":"Matsuda K. Intellectual and Social Aspects of Modernization in Japan. JICA, глава 8","year":"без даты на странице серии","url":"https://www.jica.go.jp/dsp-chair/english/chair/modernization/ku57pq00002mpdct-att/modernization_chapter_08.pdf","use":"Образование, социальные изменения и последствия индустриализации. Поздние разделы выходят за пределы Мэйдзи; не переносить их события в 1868–1912 годы."},
- "S10":{"title":"National Bureau of Statistics of China. Statistical Communiqué on the 2024 National Economic and Social Development","year":"28.02.2025; данные за 2024","url":"https://www.stats.gov.cn/english/PressRelease/202502/t20250228_1958822.html","use":"Раздел I: доли секторов в ВВП 6,8%; 36,5%; 56,7%; городское население 67,0%. Предварительные оценки выпуска."},
- "S11":{"title":"World Bank. China Economic Update December 2024","year":"2024","url":"https://thedocs.worldbank.org/en/doc/f66f7093d7be0141fe43156e5968c466-0070012024/original/CEU-December-2024-EN-Final.pdf","use":"Часть II: мобильность, неравенство возможностей, доступ к услугам и реформа хукоу. Данные отдельных разделов относятся к 2010–2021 годам."},
- "S12":{"title":"Legislative Department, Government of India. Constitution of India","year":"официальная редакция по размещённому PDF","url":"https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf","use":"Статьи 14–17: равенство и запрет неприкасаемости; статья 326: выборы на основе взрослого избирательного права. Норма права не доказывает её полную реализацию."},
- "S13":{"title":"National People’s Congress. Constitution of the People’s Republic of China","year":"редакция 2018","url":"https://en.npc.gov.cn.cdurl.cn/2018-03/11/c_1020529.htm","use":"Статьи 1–3 и 15: руководство КПК, представительные органы, демократический централизм, социалистическая рыночная экономика. Официальное описание устройства."},
- "S14":{"title":"Rajadesingan A., Mahalingam R., Jurgens D. Smart, Responsible, and Upper Caste Only. ICWSM 2019","year":"2019","url":"https://arxiv.org/abs/1904.04176","use":"Анализ более 313 тысяч брачных анкет; отношения к межкастовым бракам в цифровой среде. Выборка пользователей сайта не представляет всё население."},
- "S15":{"title":"Levitsky S., Way L. The Rise of Competitive Authoritarianism. Journal of Democracy 13(2), 51–65","year":"2002","url":"https://levitsky.scholars.harvard.edu/publications/rise-competitive-authoritarianism","use":"Разграничение общественной гибридности и политического режима; не использовать для автоматической классификации Индии или Китая."},
- "S16":{"title":"ILO and Institute for Human Development. India Employment Report 2024 Youth Employment Education and Skills","year":"2024; основной анализ до 2022","url":"https://www.ilo.org/sites/default/files/2024-08/India%20Employment%20-%20web_8%20April.pdf","use":"Неформальный сектор и неформальная занятость — разные показатели; молодёжная занятость, образование и квалификация."},
- "S17":{"title":"State Council of China. China releases five-year action plan for people-centered new urbanization","year":"31.07.2024","url":"https://english.www.gov.cn/policies/latestreleases/202407/31/content_WS66aa26c8c6d0868f4e8e99f2.html","use":"Планы смягчения ограничений регистрации и расширения доступа к услугам. Намерение реформы не равно подтверждённому результату."}
+  "S01": {
+    "title": "OpenStax. Introduction to Sociology 3e. 4.1 Types of Societies",
+    "year": "2021",
+    "url": "https://openstax.org/books/introduction-sociology-3e/pages/4-1-types-of-societies",
+    "use": "Типология обществ; учебная опора, не классификация всех стран по одному признаку."
+  },
+  "S02": {
+    "title": "OpenStax. Introduction to Sociology 3e. 17.1 Power and Authority",
+    "year": "2021",
+    "url": "https://openstax.org/books/introduction-sociology-3e/pages/17-1-power-and-authority",
+    "use": "Типы легитимной власти по Максу Веберу."
+  },
+  "S03": {
+    "title": "Alonso C., MacDonald M. Advancing India’s Structural Transformation and Catch-up to the Technology Frontier. IMF Working Paper 2024/138",
+    "year": "2024",
+    "url": "https://www.imf.org/en/publications/wp/issues/2024/07/08/advancing-indias-structural-transformation-and-catch-up-to-the-technology-frontier-551435",
+    "use": "Неравномерные изменения производительности и структуры экономики Индии; исследовательская работа авторов, не единая официальная позиция МВФ."
+  },
+  "S04": {
+    "title": "MoSPI, National Statistical Office. Annual Report PLFS July 2023–June 2024",
+    "year": "2024",
+    "url": "https://www.mospi.gov.in/sites/default/files/publication_reports/AnnualReport_PLFS2023-24L2.pdf",
+    "use": "Раздел 2.2.5, Statement 7, печатная с. 15: занятые в usual status (ps+ss), город и село, оба пола; сельское хозяйство 46,1%."
+  },
+  "S05": {
+    "title": "Sahgal N. et al. Religion in India Tolerance and Segregation. Pew Research Center",
+    "year": "2021; опрос 2019–2020",
+    "url": "https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/",
+    "use": "Социальные границы и религиозные установки; 29 999 взрослых, поле 17.11.2019–23.03.2020. Не данные за 2026 год."
+  },
+  "S06": {
+    "title": "Evans J. et al. How Indians View Gender Roles in Families and Society. Pew Research Center",
+    "year": "2022; опрос 2019–2020",
+    "url": "https://www.pewresearch.org/religion/2022/03/02/how-indians-view-gender-roles-in-families-and-society/",
+    "use": "Различие установок о публичных и семейных ролях женщин; тот же опрос, что S05, а не независимая выборка."
+  },
+  "S07": {
+    "title": "Kitaoka S. Meiji Revolution Start of Full-Scale Modernization. JICA, глава 1",
+    "year": "без даты на странице серии",
+    "url": "https://www.jica.go.jp/dsp-chair/english/chair/modernization/ku57pq00002mpdct-att/modernization_chapter_01.pdf",
+    "use": "С. 10–12 PDF: конституция 1889 года, парламент 1890 года, императорские полномочия и неформальная координация элит."
+  },
+  "S08": {
+    "title": "Kayashima N. Educational Development in Modernization in Japan. JICA, глава 5",
+    "year": "без даты на странице серии",
+    "url": "https://www.jica.go.jp/dsp-chair/english/chair/modernization/ku57pq00002mpdct-att/modernization_chapter_05.pdf",
+    "use": "С. 2–6 PDF: система образования 1872 года, наследие тэракоя, рескрипт 1890 года и подготовка кадров."
+  },
+  "S09": {
+    "title": "Matsuda K. Intellectual and Social Aspects of Modernization in Japan. JICA, глава 8",
+    "year": "без даты на странице серии",
+    "url": "https://www.jica.go.jp/dsp-chair/english/chair/modernization/ku57pq00002mpdct-att/modernization_chapter_08.pdf",
+    "use": "Образование, социальные изменения и последствия индустриализации. Поздние разделы выходят за пределы Мэйдзи; не переносить их события в 1868–1912 годы."
+  },
+  "S10": {
+    "title": "National Bureau of Statistics of China. Statistical Communiqué on the 2024 National Economic and Social Development",
+    "year": "28.02.2025; данные за 2024",
+    "url": "https://www.stats.gov.cn/english/PressRelease/202502/t20250228_1958822.html",
+    "use": "Раздел I: доли секторов в ВВП 6,8%; 36,5%; 56,7%; городское население 67,0%. Предварительные оценки выпуска."
+  },
+  "S11": {
+    "title": "World Bank. China Economic Update December 2024",
+    "year": "2024",
+    "url": "https://thedocs.worldbank.org/en/doc/f66f7093d7be0141fe43156e5968c466-0070012024/original/CEU-December-2024-EN-Final.pdf",
+    "use": "Часть II: мобильность, неравенство возможностей, доступ к услугам и реформа хукоу. Данные отдельных разделов относятся к 2010–2021 годам."
+  },
+  "S12": {
+    "title": "Legislative Department, Government of India. Constitution of India",
+    "year": "редакция на 1 мая 2026 года",
+    "url": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+    "use": "Статьи 14–17: равенство и запрет неприкасаемости; статья 326: выборы на основе взрослого избирательного права. Норма права не доказывает её полную реализацию."
+  },
+  "S13": {
+    "title": "Конституция Китайской Народной Республики. Официальная публикация Министерства коммерции КНР",
+    "year": "редакция 2018",
+    "url": "https://www.mofcom.gov.cn/xxgcxjpxsdzgtsshzysx/zywj/art/2018/art_45c1e16fe351469090d53e63178268c8.html",
+    "use": "Статьи 1–3, 15, 19–22: устройство государства, рынок, образование, наука и культура. Текст на китайском языке; норма не измеряет общественные установки."
+  },
+  "S14": {
+    "title": "Rajadesingan A., Mahalingam R., Jurgens D. Smart, Responsible, and Upper Caste Only. ICWSM 2019",
+    "year": "2019",
+    "url": "https://arxiv.org/abs/1904.04176",
+    "use": "Анализ более 313 тысяч брачных анкет; отношения к межкастовым бракам в цифровой среде. Выборка пользователей сайта не представляет всё население."
+  },
+  "S15": {
+    "title": "Levitsky S., Way L. The Rise of Competitive Authoritarianism. Journal of Democracy 13(2)",
+    "year": "2002",
+    "url": "https://levitsky.scholars.harvard.edu/publications/rise-competitive-authoritarianism",
+    "use": "Разграничение общественной гибридности и политического режима; не использовать для автоматической классификации Индии или Китая."
+  },
+  "S16": {
+    "title": "ILO and Institute for Human Development. India Employment Report 2024 Youth Employment Education and Skills",
+    "year": "2024; основной анализ до 2022",
+    "url": "https://www.ilo.org/sites/default/files/2024-08/India%20Employment%20-%20web_8%20April.pdf",
+    "use": "Неформальный сектор и неформальная занятость — разные показатели; молодёжная занятость, образование и квалификация."
+  },
+  "S17": {
+    "title": "State Council of China. China releases five-year action plan for people-centered new urbanization",
+    "year": "31.07.2024",
+    "url": "https://english.www.gov.cn/policies/latestreleases/202407/31/content_WS66aa26c8c6d0868f4e8e99f2.html",
+    "use": "Планы смягчения ограничений регистрации и расширения доступа к услугам. Намерение реформы не равно подтверждённому результату."
+  }
 }
