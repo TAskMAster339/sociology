@@ -100,5 +100,35 @@
     "year": "31.07.2024",
     "url": "https://english.www.gov.cn/policies/latestreleases/202407/31/content_WS66aa26c8c6d0868f4e8e99f2.html",
     "use": "Планы смягчения ограничений регистрации и расширения доступа к услугам. Намерение реформы не равно подтверждённому результату."
+  },
+  "S18": {
+    "title": "OpenStax. Introduction to Sociology 3e. 9.1 What Is Social Stratification?",
+    "year": "2021",
+    "url": "https://openstax.org/books/introduction-sociology-3e/pages/9-1-what-is-social-stratification",
+    "use": "Измерения стратификации, классовые и кастовые системы, согласованность статусов."
+  },
+  "S19": {
+    "title": "OpenStax. Introduction to Sociology 3e. 9.2 Social Stratification and Mobility in the United States",
+    "year": "2021",
+    "url": "https://openstax.org/books/introduction-sociology-3e/pages/9-2-social-stratification-and-mobility-in-the-united-states",
+    "use": "Вертикальная, внутри- и межпоколенная мобильность, структурные сдвиги. Понятия применяются отдельно от примеров из США."
+  },
+  "S20": {
+    "title": "MEXT. Japan’s Modern Educational System. The Establishment of Elementary Schools and Attendance",
+    "year": "исторические данные 1873–1879 годов",
+    "url": "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1317264.htm",
+    "use": "Становление начальных школ, таблица 2-4 и территориальные различия посещаемости."
+  },
+  "S21": {
+    "title": "MEXT. Japan’s Modern Educational System. The Upward Trend in the Attendance Rate",
+    "year": "исторические данные 1887–1907 годов",
+    "url": "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1317322.htm",
+    "use": "Посещаемость по полу, таблица 3-2, плата за обучение и реформа 1900 года."
+  },
+  "S22": {
+    "title": "Pew Research Center. Religion in India. Chapter 4: Attitudes about caste",
+    "year": "2021; опрос 2019–2020",
+    "url": "https://www.pewresearch.org/religion/2021/06/29/attitudes-about-caste/",
+    "use": "Ответы о межкастовых браках, различия по регионам и образованию. Глава отчёта S05, та же выборка."
   }
 }
